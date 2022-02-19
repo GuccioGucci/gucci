@@ -2,8 +2,9 @@
 
 A simple CLI templating tool written in golang.
 
-[![GitHub version](https://badge.fury.io/gh/noqcks%2Fgucci.svg)](https://badge.fury.io/gh/noqcks%2Fgucci)
-[![Build Status](https://travis-ci.org/noqcks/gucci.svg?branch=master)](https://travis-ci.org/noqcks/gucci)
+[![GitHub version](https://badge.fury.io/gh/GuccioGucci%2Fgucci.svg)](https://badge.fury.io/gh/GuccioGucci%2Fgucci)
+![ci](https://github.com/GuccioGucci/gucci/actions/workflows/ci.yml/badge.svg)
+![release](https://github.com/GuccioGucci/yoke/actions/workflows/release.yml/badge.svg)
 
 ## Installation
 
